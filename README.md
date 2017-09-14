@@ -1,6 +1,6 @@
-## Wiki-Search-Engine
+#### Wiki-Search-Engine
 
-This project involves building a search engine on the Wikipedia Data Dump without using any external index. For this project we used the data dump of size 62 GB. The search results returns in approx. 7 seconds. Multi word and multi field search on Wikipedia Corpus is implemented. SAX Parser is used to parse the XML Corpus. After parsing the following morphological operations are implemented:
+###This project involves building a search engine on the Wikipedia Data Dump without using any external index. For this project we used the data dump of size 62 GB. The search results returns in approx. 7 seconds. Multi word and multi field search on Wikipedia Corpus is implemented. SAX Parser is used to parse the XML Corpus. After parsing the following morphological operations are implemented:
 
 Features included:
 
